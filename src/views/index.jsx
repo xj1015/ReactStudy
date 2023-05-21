@@ -1,9 +1,13 @@
 import React, { Component } from 'react'
+import {Demo,DemoTest} from './Hooks'
 
 export default class COM extends Component {
   render() {
     return (
-      <div>COM</div>
+      <div>
+      <Demo></Demo>
+      <DemoTest></DemoTest>
+      </div>
     )
   }
 }
