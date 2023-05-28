@@ -45,6 +45,8 @@ componentDidCatch()：组件中出现错误就会调用此方法，生命周期�
 4.生产者消费者的模式：context
 比较好的方式：父子props，兄弟：订阅发布，集中式     祖孙：发布订阅，集中式，context
 
+Route6最近版本：
+
 
 
 
